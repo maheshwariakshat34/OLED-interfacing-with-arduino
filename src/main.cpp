@@ -1,4 +1,5 @@
 #include <Arduino.h>
+<<<<<<< HEAD
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
@@ -27,4 +28,12 @@ void setup()
 
 void loop() {
     // Nothing to do in the loop
+=======
+void setup() {
+// write your initialization code here
+}
+
+void loop() {
+// write your code here
+>>>>>>> 7dba2a98e8044245aff61cd875c1a25dc87e447d
 }
