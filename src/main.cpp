@@ -15,7 +15,7 @@ void setup()
         while(true);
     }
     display.clearDisplay();
-    display.setTextSize(1);
+    display.setTextSize(2);
     display.setTextColor(SSD1306_WHITE);
     display.setCursor(0, 0);
     display.println("Arduino UNO R4");
